@@ -1,0 +1,15 @@
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\bin\Debug\net6.0\Guessingame.exe
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\bin\Debug\net6.0\Guessingame.deps.json
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\bin\Debug\net6.0\Guessingame.runtimeconfig.json
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\bin\Debug\net6.0\Guessingame.dll
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\bin\Debug\net6.0\Guessingame.pdb
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.csproj.AssemblyReference.cache
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.AssemblyInfoInputs.cache
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.AssemblyInfo.cs
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.csproj.CoreCompileInputs.cache
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.dll
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\refint\Guessingame.dll
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.pdb
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\Guessingame.genruntimeconfig.cache
+C:\Users\ISREAL\source\repos\Tasktwo\Guessingame\obj\Debug\net6.0\ref\Guessingame.dll

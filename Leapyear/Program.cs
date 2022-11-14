@@ -1,4 +1,4 @@
-﻿namespace Leapyear
+﻿namespace Tasktwo
 {
     public class LeapYearGen
     {
